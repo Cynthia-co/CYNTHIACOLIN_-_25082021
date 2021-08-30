@@ -4153,7 +4153,7 @@ fieldset[disabled] .btn-danger:active,
 fieldset[disabled] .btn-danger:focus,
 fieldset[disabled] .btn-danger:hover {
     background-color: #d9534f;
-    border-color: #d43f3a
+    border-color: transparent;
 }
 
 .btn-danger .badge {
@@ -5748,7 +5748,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
     color: #fff;
     cursor: default;
     background-color: #337ab7;
-    border-color: #337ab7
+    border-color: transparent;
 }
 
 .pagination>.disabled>a,
@@ -6401,7 +6401,7 @@ button.list-group-item {
     z-index: 2;
     color: #fff;
     background-color: #337ab7;
-    border-color: #337ab7
+    border-color: transparent;
 }
 
 .list-group-item.active .list-group-item-heading,
@@ -6453,7 +6453,7 @@ button.list-group-item-success.active:focus,
 button.list-group-item-success.active:hover {
     color: #fff;
     background-color: #3c763d;
-    border-color: #3c763d
+    border-color: transparent;
 }
 
 .list-group-item-info {
@@ -6487,7 +6487,7 @@ button.list-group-item-info.active:focus,
 button.list-group-item-info.active:hover {
     color: #fff;
     background-color: #31708f;
-    border-color: #31708f
+    border-color: transparent;
 }
 
 .list-group-item-warning {
@@ -6521,7 +6521,7 @@ button.list-group-item-warning.active:focus,
 button.list-group-item-warning.active:hover {
     color: #fff;
     background-color: #8a6d3b;
-    border-color: #8a6d3b
+    border-color: transparent
 }
 
 .list-group-item-danger {
@@ -6555,7 +6555,7 @@ button.list-group-item-danger.active:focus,
 button.list-group-item-danger.active:hover {
     color: #fff;
     background-color: #a94442;
-    border-color: #a94442
+    border-color: transparent;
 }
 
 .list-group-item-heading {
@@ -6872,7 +6872,7 @@ button.list-group-item-danger.active:hover {
 .panel-primary>.panel-heading {
     color: #fff;
     background-color: #337ab7;
-    border-color: #337ab7
+    border-color: transparent
 }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
@@ -7821,7 +7821,7 @@ button.close {
 
 .text-hide {
     font: 0/0 a;
-    color: transparent;
+    /* color: transparent; */
     text-shadow: none;
     background-color: transparent;
     border: 0
