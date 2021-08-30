@@ -104,6 +104,7 @@ sub {
 
 img {
     border: 0
+    
 }
 
 svg:not(:root) {
@@ -4373,7 +4374,7 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
+    filter: progid: DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
 .open>.dropdown-menu {
