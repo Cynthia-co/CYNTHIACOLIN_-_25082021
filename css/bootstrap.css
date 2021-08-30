@@ -1436,8 +1436,8 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
-    height: auto
+    width: 270px;
+    height: 270px;
 }
 
 .img-rounded {
@@ -4224,7 +4224,7 @@ fieldset[disabled] .btn-link:hover {
 
 .btn-block {
     display: block;
-    width: 100%
+    width: 150px;
 }
 
 .btn-block+.btn-block {
