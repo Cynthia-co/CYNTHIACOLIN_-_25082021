@@ -682,10 +682,13 @@ a {
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 .contact-footer{
     font-size: 15px;
     margin-left: 10px;
+    width: max-content;
+    text-align: left;
 }
 .tight-width-whitespace {
     max-width: 600px;
@@ -695,6 +698,7 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    
 }
 
 .cta-hero {
@@ -729,9 +733,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
 
 h4 {
     color: #333333!important;
@@ -785,7 +786,8 @@ h4 {
 }
 
 .tc-white {
-    color: #212121;
+    color: #FFF;
+   text-align: center;
 }
 
 .btn-atomic-tangerine {
@@ -838,6 +840,8 @@ h4 {
 .quote{
     font-size: 23px;
 }
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
