@@ -16,12 +16,10 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    text-decoration: underline;
 }
 
-/* .img-logo{
-    width:180px;
-    height: auto;
-} */
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -742,13 +740,6 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-/* .logo{
-    height:auto;
-    width: 180px;
-} */
-.white {
-    color: #1F1F1F;
-}
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -777,17 +768,18 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
+/* .bgc-dark-slate-blue {
     background-color: #364577;
-}
+} */
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
 
 .tc-white {
-    color: #FFF;
+    color: #212121;
    text-align: center;
+   font-weight: bolder;
 }
 
 .btn-atomic-tangerine {
@@ -801,7 +793,8 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #212121;
+    font-weight: bolder;
 }
 
 .ltc-white:hover {
