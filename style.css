@@ -20,7 +20,7 @@ a:hover {
 
 .img-logo{
     width:140px;
-    height: 40px;
+    height: auto;
 }
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -743,7 +743,7 @@ h4 {
     margin-top: 24px;
 }
 .logo{
-    height:40px;
+    height:auto;
     width: 140px;
 }
 .white {
