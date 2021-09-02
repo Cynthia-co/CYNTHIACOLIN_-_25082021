@@ -2069,7 +2069,7 @@ pre code {
     padding-right: 15px;
     padding-left: 15px;
 }
-.col-sm-4{
+.col-sm-4, .col-sm-12{
     text-align: center;
 }
 .col-xs-1,
