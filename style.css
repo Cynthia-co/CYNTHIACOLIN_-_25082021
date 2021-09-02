@@ -18,10 +18,10 @@ a:hover {
     cursor: pointer;
 }
 
-.img-logo{
+/* .img-logo{
     width:180px;
     height: auto;
-}
+} */
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -742,10 +742,10 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-.logo{
+/* .logo{
     height:auto;
     width: 180px;
-}
+} */
 .white {
     color: #1F1F1F;
 }
