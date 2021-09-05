@@ -1053,4 +1053,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .img-logo{
+        width:60%;
+        height: auto;
+    }
 }
