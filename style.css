@@ -1057,4 +1057,10 @@ h4 {
         width:60%;
         height: auto;
     }
+    p{
+        font-size: 16px;
+    }
+    h2{
+        font-size: 20px;
+    }
 }
